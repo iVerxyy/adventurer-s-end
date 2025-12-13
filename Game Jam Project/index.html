@@ -1,0 +1,77 @@
+<!-- Removed stray opening markdown fence -->
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+	<link rel="icon" type="image/png" href="blue dot favicon.png">
+    <link rel="shortcut icon" href="blue dot favicon.png" type="image/png">
+	<title>Adventurer’s End</title>
+	<style>
+		html,body { height:100%; margin:0; padding:0; overflow:hidden; background:#0a0a0f; color:#eee; font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial; }
+		#game-container { width:100%; height:100%; }
+		.info { display:none; }
+
+
+		/* Pause menu overlay */
+		#menu-overlay { position:fixed; inset:0; display:none; align-items:center; justify-content:center; background:rgba(0,0,0,0.55); z-index:9999; }
+		#menu-window { width:360px; background:#0a0a0f; border:1px solid rgba(255,255,255,0.12); border-radius:12px; box-shadow:0 12px 36px rgba(0,0,0,0.75); padding:18px 20px; color:#eaeaea; font-family:'Segoe UI', sans-serif; position:relative; }
+		#menu-title { font-size:18px; font-weight:700; letter-spacing:0.4px; margin-bottom:8px; }
+		#menu-desc { font-size:14px; line-height:1.5; color:#d6d6d6; margin-bottom:12px; }
+		#tip-row { display:flex; align-items:center; gap:8px; margin-bottom:16px; }
+		#tip-btn { padding:8px 12px; border-radius:8px; border:1px solid rgba(255,255,255,0.2); background:#111; color:#fafafa; cursor:pointer; font-size:14px; }
+		#tip-btn:hover { background:#181818; }
+		#tip-text { font-size:13px; color:#cfcfcf; min-height:18px; }
+		#volume-row { margin-top:12px; display:flex; flex-direction:column; gap:6px; }
+		#volume-row label { font-size:13px; color:#ccc; }
+		#volume-slider { width:100%; accent-color:#f5f5f5; }
+		#general-tip { font-size:12px; color:#999; margin-top:14px; padding-top:10px; border-top:1px solid rgba(255,255,255,0.1); line-height:1.4; }
+		#menu-close { position:absolute; top:10px; right:10px; width:26px; height:26px; border-radius:50%; border:1px solid rgba(255,255,255,0.2); background:#111; color:#f5f5f5; cursor:pointer; font-weight:700; }
+		#menu-close:hover { background:#181818; }
+	</style>
+</head>
+<body>
+	<div id="game-container"></div>
+	<div id="menu-overlay">
+		<div id="menu-window">
+			<button id="menu-close">X</button>
+			<div id="menu-title">Pause</div>
+			<div id="menu-desc">Goal: Push all crates onto the goals. Avoid black holes; rewind to go back if you made a mistake.</div>
+			<div id="tip-row">
+				<button id="tip-btn">Tip</button>
+				<div id="tip-text"></div>
+			</div>
+			<div id="volume-row">
+				<label for="volume-slider">Music volume</label>
+				<input type="range" id="volume-slider" min="0" max="100" value="60">
+			</div>
+			<div id="general-tip"><strong>Hint:</strong> You can block the black hole by placing a box over it.</div>
+		</div>
+	</div>
+	<div class="info">
+		<div><strong>Adventurer’s End</strong> — A time-bending puzzle game where time helps and hinders.</div>
+		<div class="controls">Controls: Arrow keys to move · <strong>R</strong> rewind (hold) · <strong>-</strong>/<strong>+</strong> timeScale · Avoid hazardous zones.</div>
+		<div>Goal: Push all crates onto the goals. Later levels include black holes that exert a pull.</div>
+		<div style="margin-top:8px; display:flex; gap:12px; align-items:center">
+				<label style="font-size:16px; font-weight:600; margin-right:8px;">Level:</label>
+			<select id="level-select" class="ui-control">
+				<option value="0">Level 1 ★</option>
+				<option value="1">Level 2 ★</option>
+				<option value="2">Level 3 ★★</option>
+				<option value="3">Level 4 ★★</option>
+				<option value="4">Level 5 ★★</option>
+				<option value="5">Level 6 ★★★</option>
+				<option value="6">Level 7 ★★★</option>
+				<option value="7">Level 8 ★★★</option>
+				<option value="8">Level 9 ★★★</option>
+				<option value="9">Level 10 ★★★</option>
+				<option value="10">Level 11 ★★★</option>
+				<option value="11">Level 12 ★★★</option>
+			</select>
+			<button id="restart-btn" class="ui-btn">Restart</button>
+			</div>
+	</div>
+	<script src="https://cdn.jsdelivr.net/npm/phaser@3/dist/phaser.min.js"></script>
+	<script src="game.js"></script>
+</body>
+</html>
