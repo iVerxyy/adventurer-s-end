@@ -74,11 +74,10 @@ https://github.com/user-attachments/assets/7153d8ef-259a-474d-9bf5-3f5edcf8c326
 
 ---
 
-## 📸 Screenshots
+## 📸 Gameplay Preview
 
-<!-- Replace with your actual screenshots -->
 <p align="center">
-  <img src="https://ibb.co/20MzCcNg" width="400"/>
+  <img src="assets/gameplay-preview.png" width="700"/>
 </p>
 
 ---
@@ -107,6 +106,6 @@ Built entirely using:
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/yourusername/adventurers-end.git
+git clone https://github.com/iverxyy/adventurers-end.git
 cd adventurers-end
 open index.html
