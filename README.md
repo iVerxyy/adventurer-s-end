@@ -77,7 +77,8 @@ https://github.com/user-attachments/assets/7153d8ef-259a-474d-9bf5-3f5edcf8c326
 ## 📸 Gameplay Preview
 
 <p align="center">
-  <img src="assets/gameplay-preview.png" width="700"/>
+  <img src="assets/gameplay-preview.png" width="700"/>![image_2026-04-04_00-13-24](https://github.com/user-attachments/assets/96e8e0f8-585f-433e-8cfc-4f74a45f99a1)
+
 </p>
 
 ---
