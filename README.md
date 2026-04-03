@@ -41,25 +41,25 @@ https://github.com/user-attachments/assets/7153d8ef-259a-474d-9bf5-3f5edcf8c326
 
 ## ✨ Features
 
-- 🧩 **12 Handcrafted Levels**  
+- ✧ **12 Handcrafted Levels**  
   From beginner-friendly to brain-melting challenges  
 
-- ⏰ **Time Rewind Mechanic**  
+- ✧ **Time Rewind Mechanic**  
   Hold **R** or click to reverse your mistakes — but watch your energy  
 
-- 🕳️ **Dynamic Black Holes**  
+- ✧ **Dynamic Black Holes**  
   They pull you in every 2 seconds. Plan ahead or get consumed  
 
-- 💎 **Energy Management System**  
+- ✧ **Energy Management System**  
   Crystals restore your rewind power, but they don’t regenerate  
 
-- 🏆 **Achievement System**  
+- ✧ **Achievement System**  
   Unlock 6 achievements through speed, efficiency, and skill  
 
-- 🛠️ **Level Editor** *(unlocks at Level 6)*  
+- ✧ **Level Editor** *(unlocks at Level 6)*  
   Create your own puzzles  
 
-- 🔒 **Progressive Unlocking**  
+- ✧ **Progressive Unlocking**  
   Earn your way through each challenge  
 
 ---
@@ -78,8 +78,7 @@ https://github.com/user-attachments/assets/7153d8ef-259a-474d-9bf5-3f5edcf8c326
 
 <!-- Replace with your actual screenshots -->
 <p align="center">
-  <img src="screenshot1.png" width="400"/>
-  <img src="screenshot2.png" width="400"/>
+  <img src="https://ibb.co/20MzCcNg.png" width="400"/>
 </p>
 
 ---
