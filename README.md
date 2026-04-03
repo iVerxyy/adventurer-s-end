@@ -32,6 +32,11 @@ You play as the **blue orb 🔵**, solving increasingly complex puzzles while fi
 <p align="center">
   <video src="assets/gameplay.mp4" width="700" controls autoplay loop muted></video>
 </p>
+
+https://github.com/user-attachments/assets/7153d8ef-259a-474d-9bf5-3f5edcf8c326
+
+
+
 ---
 
 ## ✨ Features
