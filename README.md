@@ -74,15 +74,6 @@ https://github.com/user-attachments/assets/7153d8ef-259a-474d-9bf5-3f5edcf8c326
 
 ---
 
-## 📸 Gameplay Preview
-
-<p align="center">
-  <img src="![image_2026-04-04_00-13-24](https://github.com/user-attachments/assets/96e8e0f8-585f-433e-8cfc-4f74a45f99a1)" width="700"/>
-
-</p>
-
----
-
 ## ⚠️ Compatibility
 
 - ✅ Desktop  
@@ -102,6 +93,7 @@ Built entirely using:
 - CSS  
 - JavaScript  
 
+Go ahead, and check out the post here: <a href="https://www.codedex.io/community/monthly-challenge/submission/1fxXRhE64c6f60sNlyRB">
 ---
 
 ## 🚀 Run Locally
