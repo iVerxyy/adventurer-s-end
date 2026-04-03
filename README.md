@@ -29,9 +29,8 @@ You play as the **blue orb 🔵**, solving increasingly complex puzzles while fi
 
 ## 🎥 Gameplay Preview
 
-<!-- Replace this with your GIF or video -->
 <p align="center">
-  <img src="[your-gameplay.gif](https://github.com/user-attachments/assets/21a3cbfc-ae38-481c-98c4-86be23f92f20)" width="600"/>
+  <video src="https://github.com/user-attachments/assets/21a3cbfc-ae38-481c-98c4-86be23f92f20" width="600" controls></video>
 </p>
 
 ---
