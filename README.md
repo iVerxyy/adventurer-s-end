@@ -1,5 +1,4 @@
-# <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b951059b-038e-4659-ab93-db5bf4cb37a9" />
- Adventurer's End
+# ❀ Adventurer's End 
 
 ![HTML](https://img.shields.io/badge/Built%20with-HTML-orange)
 ![CSS](https://img.shields.io/badge/Styled%20with-CSS-blue)
