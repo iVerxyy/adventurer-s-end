@@ -30,15 +30,7 @@ You play as the **blue orb 🔵**, solving increasingly complex puzzles while fi
 ## 🎥 Gameplay Preview
 
 <p align="center">
-
-<b>🎮 General Gameplay (How to Play)</b><br>
-<a href="https://drive.google.com/file/d/19EQPNbe95CkTRIYbiUU285fC_zOWEAjQ/view?usp=drive_link">▶️ Watch Video</a>
-
-<br><br>
-
-<b>🛠️ Level Editor Tutorial</b><br>
-<a href="https://drive.google.com/file/d/1oCYmXq-uFCEg2w_omc36GqJn36uhk2xW/view?usp=drive_link">▶️ Watch Video</a>
-
+  <video src="assets/gameplay.mp4" width="700" controls autoplay loop muted></video>
 </p>
 ---
 
