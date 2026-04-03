@@ -78,7 +78,7 @@ https://github.com/user-attachments/assets/7153d8ef-259a-474d-9bf5-3f5edcf8c326
 
 <!-- Replace with your actual screenshots -->
 <p align="center">
-  <img src="https://ibb.co/20MzCcNg.png" width="400"/>
+  <img src="https://ibb.co/20MzCcNg" width="400"/>
 </p>
 
 ---
