@@ -99,6 +99,5 @@ Go ahead, and check out the post here: https://www.codedex.io/community/monthly-
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/iverxyy/adventurers-end.git
+git clone https://github.com/iverxyy/adventurer-s-end.git
 cd adventurers-end
-open index.html
