@@ -93,7 +93,7 @@ Built entirely using:
 - CSS  
 - JavaScript  
 
-Go ahead, and check out the post here: <a href="https://www.codedex.io/community/monthly-challenge/submission/1fxXRhE64c6f60sNlyRB">
+Go ahead, and check out the post here: https://www.codedex.io/community/monthly-challenge/submission/1fxXRhE64c6f60sNlyRB
 ---
 
 ## 🚀 Run Locally
